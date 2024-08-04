@@ -11,8 +11,13 @@
             "id": "d856953eec54d1d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "How to use Obsidian/0. Obisidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to use Obsidian/0. Obisidian.md"
+              }
             }
           }
         ]
@@ -144,10 +152,10 @@
   },
   "active": "d856953eec54d1d3",
   "lastOpenFiles": [
+    "Daily Note/2024-08-04.md",
     "How to use Obsidian/PDF and plugins.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "How to use Obsidian/Annotation.md",
-    "Daily Note/2024-08-04.md",
     "Other/Vocabulary.md",
     "How to use Obsidian/0. Obisidian.md",
     "How to use Obsidian/Templates.md",

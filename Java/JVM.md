@@ -1,0 +1,1 @@
+JVM is a virtual machine to run the bytecode, raw code of the Java code we write.

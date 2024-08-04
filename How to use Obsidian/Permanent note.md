@@ -1,0 +1,2 @@
+- most distilled
+- single idea in a few sentences

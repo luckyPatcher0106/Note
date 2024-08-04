@@ -5,5 +5,5 @@
 Using annotation
 ---
 annotation-target:
-"https://githubtraining.github.io/training-manual/legacy-manual.pdf)"
+"https://githubtraining.github.io/training-manual/legacy-manual.pdf"
 ---

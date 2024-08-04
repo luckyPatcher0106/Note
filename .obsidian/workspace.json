@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "How to use Obsidian/PDF and plugins.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,14 +149,14 @@
   },
   "active": "d856953eec54d1d3",
   "lastOpenFiles": [
+    "Daily Note/2024-08-04.md",
+    "How to use Obsidian/PDF and plugins.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "Other/Vocabulary.md",
-    "How to use Obsidian/PDF and plugins.md",
     "How to use Obsidian/0. Obisidian.md",
     "How to use Obsidian/Templates.md",
     "README.md",
     "How to use Obsidian/VersionController.md",
-    "Daily Note/2024-08-04.md",
     "How to use Obsidian/Dataview.md",
     "How to use Obsidian/Hashtag.md",
     "How to use Obsidian/Special format.md",
@@ -187,7 +187,6 @@
     "Plan/4. Timeline.md",
     "Untitled.canvas",
     "Plan",
-    "How to use Obsidian",
     "Pasted image 20240802152008.png",
     "Hello.png",
     "Pasted image 20240802151904.png",

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use Obsidian/PDF and plugins.md",
-                "mode": "preview",
+                "file": "How to use Obsidian/Annotation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use Obsidian/PDF and plugins.md",
+                "file": "How to use Obsidian/Annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use Obsidian/PDF and plugins.md",
+                "file": "How to use Obsidian/Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use Obsidian/PDF and plugins.md"
+                "file": "How to use Obsidian/Annotation.md"
               }
             }
           }
@@ -144,13 +144,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "d856953eec54d1d3",
   "lastOpenFiles": [
-    "Daily Note/2024-08-04.md",
     "How to use Obsidian/PDF and plugins.md",
+    "How to use Obsidian/Annotation.md",
+    "Daily Note/2024-08-04.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "Other/Vocabulary.md",
     "How to use Obsidian/0. Obisidian.md",

@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4960e59b82615cd0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbfb45e097085454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-08-04.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8a6c5cb006b8203a",
         "type": "tabs",
         "children": [
           {
-            "id": "c316d12d6d9cc5d6",
+            "id": "d856953eec54d1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use Obsidian/Dataview.md",
+                "file": "How to use Obsidian/PDF and plugins.md",
                 "mode": "preview",
                 "source": true
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-04.md",
+                "file": "How to use Obsidian/PDF and plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-08-04.md",
+                "file": "How to use Obsidian/PDF and plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-04.md"
+                "file": "How to use Obsidian/PDF and plugins.md"
               }
             }
           }
@@ -165,20 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eca32c090b50d72",
+  "active": "d856953eec54d1d3",
   "lastOpenFiles": [
-    "How to use Obsidian/0. Obisidian.md",
-    "How to use Obsidian/Dataview.md",
-    "README.md",
+    "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
+    "Other/Vocabulary.md",
     "How to use Obsidian/PDF and plugins.md",
-    "How to use Obsidian/Hashtag.md",
+    "How to use Obsidian/0. Obisidian.md",
+    "How to use Obsidian/Templates.md",
+    "README.md",
+    "How to use Obsidian/VersionController.md",
     "Daily Note/2024-08-04.md",
+    "How to use Obsidian/Dataview.md",
+    "How to use Obsidian/Hashtag.md",
     "How to use Obsidian/Special format.md",
     "How to use Obsidian/Showmaker.md",
     "How to use Obsidian/Faker.md",
     "Java/JVM.md",
     "Java/fleeting Note.md",
-    "How to use Obsidian/VersionController.md",
     "How to use Obsidian/Link.md",
     "How to use Obsidian/Zettelkasetn.md",
     "How to use Obsidian/Permanent note.md",
@@ -193,7 +178,6 @@
     "Plan/5. Letter.md",
     "Daily Note",
     "Plan/0. Planning.md",
-    "Other/Vocabulary.md",
     "Other/Birthday.md",
     "Plan/1. Food.md",
     "Other",
@@ -202,8 +186,6 @@
     "Vocabulary",
     "Plan/4. Timeline.md",
     "Untitled.canvas",
-    "How to use Obsidian/Hello world.md",
-    "How to use Obsidian/2024-08-02.md",
     "Plan",
     "How to use Obsidian",
     "Pasted image 20240802152008.png",

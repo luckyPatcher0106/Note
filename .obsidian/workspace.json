@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use Obsidian/Dataview.md",
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use Obsidian/Dataview.md",
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use Obsidian/Dataview.md"
+                "file": "How to use Obsidian/0. Obisidian.md"
               }
             }
           }
@@ -164,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c316d12d6d9cc5d6",
+  "active": "cbfb45e097085454",
   "lastOpenFiles": [
+    "How to use Obsidian/Dataview.md",
     "README.md",
     "How to use Obsidian/0. Obisidian.md",
-    "How to use Obsidian/Dataview.md",
     "How to use Obsidian/PDF and plugins.md",
     "How to use Obsidian/Hashtag.md",
     "Daily Note/2024-08-04.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "Daily Note/2024-08-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "Daily Note/2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "Daily Note/2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md"
+                "file": "Daily Note/2024-08-04.md"
               }
             }
           }
@@ -152,12 +152,12 @@
   },
   "active": "d856953eec54d1d3",
   "lastOpenFiles": [
+    "How to use Obsidian/0. Obisidian.md",
     "Daily Note/2024-08-04.md",
     "How to use Obsidian/PDF and plugins.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "How to use Obsidian/Annotation.md",
     "Other/Vocabulary.md",
-    "How to use Obsidian/0. Obisidian.md",
     "How to use Obsidian/Templates.md",
     "README.md",
     "How to use Obsidian/VersionController.md",

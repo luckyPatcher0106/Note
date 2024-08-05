@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8a6c5cb006b8203a",
+        "id": "e58b5e76840f4209",
         "type": "tabs",
         "children": [
           {
-            "id": "d856953eec54d1d3",
+            "id": "180e74a976afb5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-08-04.md",
+                "file": "u&m/u/0. Main.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-04.md",
+                "file": "u&m/u/0. Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-08-04.md",
+                "file": "u&m/u/0. Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-04.md"
+                "file": "u&m/u/0. Main.md"
               }
             }
           }
@@ -150,10 +150,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d856953eec54d1d3",
+  "active": "021d599ea74da5a3",
   "lastOpenFiles": [
-    "How to use Obsidian/0. Obisidian.md",
+    "u&m/u/Remember.md",
+    "u&m/u/0. Main.md",
+    "u&m/u/Cuti thing.md",
+    "u&m/u/Food&Drink.md",
+    "u&m/u/About her.md",
+    "u&m/Untitled.md",
+    "u&m/m",
+    "u&m/u",
     "Daily Note/2024-08-04.md",
+    "u&m",
+    "Daily Note/2024-08-05.md",
+    "Java/JVM.md",
+    "How to use Obsidian/0. Obisidian.md",
     "How to use Obsidian/PDF and plugins.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "How to use Obsidian/Annotation.md",
@@ -166,30 +177,20 @@
     "How to use Obsidian/Special format.md",
     "How to use Obsidian/Showmaker.md",
     "How to use Obsidian/Faker.md",
-    "Java/JVM.md",
     "Java/fleeting Note.md",
     "How to use Obsidian/Link.md",
     "How to use Obsidian/Zettelkasetn.md",
     "How to use Obsidian/Permanent note.md",
     "How to use Obsidian/Literature note.md",
-    "Untitled Kanban.md",
     "Meta/Attachment/Pasted image 20240804083519.png",
     "Meta/Attachment/Pasted image 20240804083410.png",
     "Meta/Attachment",
     "Meta",
     "Attachment",
     "Meta",
-    "Plan/5. Letter.md",
     "Daily Note",
-    "Plan/0. Planning.md",
-    "Other/Birthday.md",
-    "Plan/1. Food.md",
     "Other",
-    "Java",
-    "Vocabulary/Untitled.md",
-    "Vocabulary",
     "Untitled.canvas",
-    "Plan",
     "Pasted image 20240802152008.png",
     "Hello.png",
     "Pasted image 20240802151904.png",

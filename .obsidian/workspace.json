@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-08-05.md",
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-05.md",
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-08-05.md",
+                "file": "How to use Obsidian/0. Obisidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-05.md"
+                "file": "How to use Obsidian/0. Obisidian.md"
               }
             }
           }
@@ -150,10 +150,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0caac0ecc4fe4376",
+  "active": "021d599ea74da5a3",
   "lastOpenFiles": [
-    "Daily Note/2024-08-04.md",
     "Daily Note/2024-08-05.md",
+    "Daily Note/2024-08-04.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/u/0. Main.md",
     "u&m/u/Remember.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "u&m/u/Remember.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "u&m/u/Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md",
+                "file": "u&m/u/Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use Obsidian/0. Obisidian.md"
+                "file": "u&m/u/Remember.md"
               }
             }
           }
@@ -150,22 +150,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "021d599ea74da5a3",
+  "active": "0caac0ecc4fe4376",
   "lastOpenFiles": [
+    "u&m/u/Food&Drink.md",
+    "u&m/u/Cuti thing.md",
+    "u&m/u/About her.md",
+    "Daily Note/2024-08-06.md",
+    "How to use Obsidian/0. Obisidian.md",
     "Daily Note/2024-08-05.md",
     "Daily Note/2024-08-04.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/u/0. Main.md",
     "u&m/u/Remember.md",
-    "u&m/u/Cuti thing.md",
-    "u&m/u/Food&Drink.md",
-    "u&m/u/About her.md",
     "u&m/Untitled.md",
     "u&m/m",
     "u&m/u",
     "u&m",
     "Java/JVM.md",
-    "How to use Obsidian/0. Obisidian.md",
     "How to use Obsidian/PDF and plugins.md",
     "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "How to use Obsidian/Annotation.md",
@@ -181,7 +182,6 @@
     "Java/fleeting Note.md",
     "How to use Obsidian/Link.md",
     "How to use Obsidian/Zettelkasetn.md",
-    "How to use Obsidian/Permanent note.md",
     "Meta/Attachment/Pasted image 20240804083519.png",
     "Meta/Attachment/Pasted image 20240804083410.png",
     "Meta/Attachment",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "u&m/u/Food&Drink.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,25 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "u&m/u/Food&Drink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c01c7c29e0035ab2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "u&m/Plan/4. Timeline.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md"
+                "file": "u&m/u/Food&Drink.md"
               }
             }
           }
@@ -152,20 +140,22 @@
   },
   "active": "0caac0ecc4fe4376",
   "lastOpenFiles": [
+    "u&m/u/Remember.md",
+    "u&m/u/Food&Drink.md",
+    "u&m/u/Cuti thing.md",
+    "u&m/u/About her.md",
+    "u&m/u/0. Main.md",
     "u&m/Plan/5. Letter.md",
     "u&m/Plan/4. Timeline.md",
     "u&m/Plan/3. PlayGame.md",
-    "u&m/Plan/1. Food.md",
     "u&m/Plan/2. Market.md",
-    "u&m/u/Food&Drink.md",
-    "u&m/u/Remember.md",
-    "u&m/u/Cuti thing.md",
-    "u&m/u/About her.md",
+    "u&m/Plan/1. Food.md",
+    "u&m/Plan/0. Planning.md",
+    "Daily Note/2024-08-07.md",
     "Daily Note/2024-08-06.md",
     "How to use Obsidian/0. Obisidian.md",
     "Daily Note/2024-08-05.md",
     "Daily Note/2024-08-04.md",
-    "u&m/u/0. Main.md",
     "u&m/Untitled.md",
     "u&m/m",
     "u&m/u",
@@ -180,8 +170,6 @@
     "How to use Obsidian/VersionController.md",
     "How to use Obsidian/Dataview.md",
     "How to use Obsidian/Hashtag.md",
-    "How to use Obsidian/Special format.md",
-    "How to use Obsidian/Showmaker.md",
     "Meta/Attachment/Pasted image 20240804083519.png",
     "Meta/Attachment/Pasted image 20240804083410.png",
     "Meta/Attachment",

@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4d196cb8ef4066a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "u&m/Plan/6. Gửi Email.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/Plan/Thư 1.md",
+                "file": "u&m/Plan/6. Gửi Email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/Plan/Thư 1.md"
+                "file": "u&m/Plan/6. Gửi Email.md"
               }
             }
           }
@@ -139,10 +153,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "216e392aa916f831",
+  "active": "4d196cb8ef4066a9",
   "lastOpenFiles": [
-    "u&m/Plan/5. Letter.md",
+    "u&m/Plan/0. Planning.md",
+    "u&m/Plan/6. Gửi Email.md",
     "u&m/Plan/Thư 1.md",
+    "u&m/Plan/5. Letter.md",
     "Learning/Leetcode/258 - Add Digits.md",
     "z_Templates/Leetcode.md",
     "u&m/Plan/4. Timeline.md",
@@ -150,7 +166,6 @@
     "Daily Note/2024-08-07.md",
     "Learning/Leetcode",
     "Learning",
-    "u&m/Plan/0. Planning.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/1. Food.md",
@@ -173,7 +188,6 @@
     "u&m/u/0. Main.md",
     "How to use Obsidian/Hashtag.md",
     "How to use Obsidian/Literature note.md",
-    "How to use Obsidian/Faker.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",

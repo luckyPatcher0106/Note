@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68a9fbd4aecad3ee",
+        "id": "a8a7c58d484b27a8",
         "type": "tabs",
         "children": [
           {
-            "id": "06ca2f48fc3653c1",
+            "id": "216e392aa916f831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "file": "u&m/Plan/Thư 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "f1f4debfd55ec6db",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "file": "u&m/Plan/Thư 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md"
+                "file": "u&m/Plan/Thư 1.md"
               }
             }
           }
@@ -138,16 +139,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "06ca2f48fc3653c1",
+  "active": "216e392aa916f831",
   "lastOpenFiles": [
-    "z_Templates/Leetcode.md",
+    "u&m/Plan/5. Letter.md",
+    "u&m/Plan/Thư 1.md",
     "Learning/Leetcode/258 - Add Digits.md",
+    "z_Templates/Leetcode.md",
     "u&m/Plan/4. Timeline.md",
     "Learning/Leetcode/Daily Practise.md",
     "Daily Note/2024-08-07.md",
     "Learning/Leetcode",
     "Learning",
-    "u&m/Plan/5. Letter.md",
     "u&m/Plan/0. Planning.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/3. PlayGame.md",
@@ -172,7 +174,6 @@
     "How to use Obsidian/Hashtag.md",
     "How to use Obsidian/Literature note.md",
     "How to use Obsidian/Faker.md",
-    "Daily Note/2024-08-05.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",

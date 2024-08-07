@@ -1,0 +1,2 @@
+Lâu lắm rồi kể từ lần cuối a viết thư cho em, a cũng không biết phải bắt đầu từ đâu nữa. 
+Từ lúc chúng mình mới bắt đầu xa, đã xảy ra chuyện làm e buồn rồi. Mà thật ra là cả một khoảng thời gian dài, a không kiểm soát được bản thân mình. Từ những chuyện nhỏ nhỏ, rồi tới những chuyện lớn hơn, a rất buồn vì đã không làm được những gì a phải làm. 

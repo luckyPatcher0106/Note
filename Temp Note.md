@@ -8,7 +8,7 @@
 	- JERK: chỉ số thoải mái của người dùng
 
 $$
-\frac{1}{2} + x
+\frac{1}{2} + x + y
 $$
 
 

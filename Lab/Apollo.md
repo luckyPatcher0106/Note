@@ -1,0 +1,19 @@
+- Phần cứng
+	- GNSS: Định vị toàn cầu, sử dụng vệ tinh (GPS)
+	- IMU: Đo quán tính -> v, a,...
+	- Camera: Nhận diện
+	- LiDAR: Cảm biến laze
+	- Radar: Cảm biến vô tuyến
+- Phần mềm
+	- **CyberRT: Apollo's framework**->cung cấp Talker và Listener để các mô đun trao đổi thông tin.
+	- **HD Map**: Định vị chi tiết, sử dụng kết hợp ở nhiều modun(Location, Perception, Planing,...)
+	- **Localization**
+		- MSF (Multi Sensor Fusion)
+		- RTK (Real Time Kinematic)
+	- **Perception and Prediction**
+		- LiDAR
+		- Camera
+		- Radar
+		- **Kiến trúc hệ thống học máy**![[Pasted image 20240807073324.png]]
+		- Các kiến trúc sử dụng: Caffe, PyTorch, Paddle, TensorRT,..v.v), chủ yếu là CNN, RNN, LSTM,... Dựa vào vai trò và vị trí các mô hình, chia thành 4 nhóm chính: Nhận diện đèn giao thông, Nhận diện làn đường, Nhận diện vật thể và Dự đoán quỹ đạo di chuyển của vật thể.
+		- **Nhận diện đèn giao thông** 

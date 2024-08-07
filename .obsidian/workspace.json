@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a7c58d484b27a8",
+        "id": "c8b7dd2cd5b59c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "216e392aa916f831",
+            "id": "846a55fb49b68602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/Thư 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6b9460224521b885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "u&m/Plan/6. Gửi Email.md",
+                "file": "Learning/Java/0. Java core.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "59c66632b016d1c8",
+        "id": "783f35df0bfdd78e",
         "type": "tabs",
         "children": [
           {
-            "id": "5776fab6130937ac",
+            "id": "0906e869bfe07978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/3. PlayGame.md",
+                "file": "Learning/Java/0. Java core.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/Plan/6. Gửi Email.md",
+                "file": "Learning/Java/0. Java core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/Plan/6. Gửi Email.md"
+                "file": "Learning/Java/0. Java core.md"
               }
             }
           }
@@ -172,13 +158,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6b9460224521b885",
+  "active": "0906e869bfe07978",
   "lastOpenFiles": [
-    "u&m/Plan/4. Timeline.md",
-    "u&m/Plan/3. PlayGame.md",
-    "u&m/Plan/6. Gửi Email.md",
-    "u&m/Plan/0. Planning.md",
+    "Learning/Java/0. Java core.md",
+    "Learning/Java",
     "u&m/Plan/Thư 1.md",
+    "u&m/Plan/6. Gửi Email.md",
+    "u&m/Plan/3. PlayGame.md",
+    "u&m/Plan/4. Timeline.md",
+    "u&m/Plan/0. Planning.md",
     "u&m/Plan/5. Letter.md",
     "Learning/Leetcode/258 - Add Digits.md",
     "z_Templates/Leetcode.md",
@@ -206,12 +194,10 @@
     "u&m/u/About her.md",
     "u&m/u/0. Main.md",
     "How to use Obsidian/Hashtag.md",
-    "How to use Obsidian/Literature note.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",
     "u&m/u",
-    "u&m",
     "Meta/Attachment/Pasted image 20240804083410.png",
     "Untitled.canvas",
     "Pasted image 20240802152008.png",

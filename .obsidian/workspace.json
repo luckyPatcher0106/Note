@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ad65123557b968af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9589894ea18b8aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1620c2179dd9ba50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-08-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "68a9fbd4aecad3ee",
         "type": "tabs",
         "children": [
@@ -46,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "Learning/Leetcode/258 - Add Digits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -119,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-07.md",
+                "file": "Learning/Leetcode/258 - Add Digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-07.md"
+                "file": "Learning/Leetcode/258 - Add Digits.md"
               }
             }
           }
@@ -171,12 +138,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1620c2179dd9ba50",
+  "active": "06ca2f48fc3653c1",
   "lastOpenFiles": [
-    "u&m/Plan/5. Letter.md",
-    "Daily Note/2024-08-07.md",
-    "u&m/Plan/0. Planning.md",
+    "z_Templates/Leetcode.md",
+    "Learning/Leetcode/258 - Add Digits.md",
     "u&m/Plan/4. Timeline.md",
+    "Learning/Leetcode/Daily Practise.md",
+    "Daily Note/2024-08-07.md",
+    "Learning/Leetcode",
+    "Learning",
+    "u&m/Plan/5. Letter.md",
+    "u&m/Plan/0. Planning.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/1. Food.md",
@@ -201,17 +173,12 @@
     "How to use Obsidian/Literature note.md",
     "How to use Obsidian/Faker.md",
     "Daily Note/2024-08-05.md",
-    "Daily Note/2024-08-04.md",
-    "Daily Note/2024-08-06.md",
-    "To-do list this month/Untitled.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",
     "u&m/u",
     "u&m",
     "Meta/Attachment/Pasted image 20240804083410.png",
-    "z_Meta/Attachment",
-    "z_Meta",
     "Untitled.canvas",
     "Pasted image 20240802152008.png",
     "Hello.png",

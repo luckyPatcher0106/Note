@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/u/Food&Drink.md",
+                "file": "u&m/Plan/0. Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -46,8 +46,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp Note.md",
-                "mode": "preview",
+                "file": "u&m/Plan/2. Market.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/u/Food&Drink.md",
+                "file": "u&m/Plan/2. Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/u/Food&Drink.md"
+                "file": "u&m/Plan/2. Market.md"
               }
             }
           }
@@ -171,9 +171,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1620c2179dd9ba50",
+  "active": "06ca2f48fc3653c1",
   "lastOpenFiles": [
+    "u&m/Plan/1. Food.md",
+    "u&m/Plan/0. Planning.md",
     "Temp Note.md",
+    "u&m/u/Food&Drink.md",
     "Lab/Apollo.md",
     "myFamily/To-do list.md",
     "z_Meta/Vocabulary",
@@ -187,10 +190,8 @@
     "Lab",
     "u&m/Plan/5. Letter.md",
     "u&m/Plan/4. Timeline.md",
-    "u&m/Plan/1. Food.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/2. Market.md",
-    "u&m/Plan/0. Planning.md",
     "fleeting Note.md",
     "How to use Obsidian/0. Obisidian.md",
     "z_Templates/Daily note.md",
@@ -205,7 +206,6 @@
     "To-do list this month/Untitled.md",
     "To-do list this month",
     "z_Templates",
-    "u&m/u/Food&Drink.md",
     "u&m/m",
     "u&m/u",
     "u&m",

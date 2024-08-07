@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "4d196cb8ef4066a9",
+            "id": "6b9460224521b885",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "59c66632b016d1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5776fab6130937ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "u&m/Plan/3. PlayGame.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,21 +172,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4d196cb8ef4066a9",
+  "active": "6b9460224521b885",
   "lastOpenFiles": [
-    "u&m/Plan/0. Planning.md",
+    "u&m/Plan/4. Timeline.md",
+    "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/6. Gửi Email.md",
+    "u&m/Plan/0. Planning.md",
     "u&m/Plan/Thư 1.md",
     "u&m/Plan/5. Letter.md",
     "Learning/Leetcode/258 - Add Digits.md",
     "z_Templates/Leetcode.md",
-    "u&m/Plan/4. Timeline.md",
     "Learning/Leetcode/Daily Practise.md",
     "Daily Note/2024-08-07.md",
     "Learning/Leetcode",
     "Learning",
     "u&m/Plan/2. Market.md",
-    "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/1. Food.md",
     "Temp Note.md",
     "u&m/u/Food&Drink.md",

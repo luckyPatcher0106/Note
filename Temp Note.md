@@ -6,10 +6,8 @@
 	- DTO: Distance to Object
 	- ETTC: Estimated time to collision
 	- JERK: chỉ số thoải mái của người dùng
-
-$$
-\frac{1}{2} + x + y
-$$
+- Mục tiêu
+	- 
 
 
 

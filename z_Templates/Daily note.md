@@ -1,0 +1,5 @@
+- Today i have x hours.
+- [ ] Learning Java (3 hours)
+- [ ] Leetcode (1 hour)
+- [ ] Book (1 hour)
+- [ ] Excercise (30 minutes)

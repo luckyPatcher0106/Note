@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc7535ea48680af7",
+        "id": "cc24e94d9066b2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "0caac0ecc4fe4376",
+            "id": "12b564b422101319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/u/Food&Drink.md",
+                "file": "u&m/Plan/0. Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/u/Food&Drink.md",
+                "file": "u&m/Plan/0. Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/u/Food&Drink.md"
+                "file": "u&m/Plan/0. Planning.md"
               }
             }
           }
@@ -138,46 +138,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0caac0ecc4fe4376",
+  "active": "12b564b422101319",
   "lastOpenFiles": [
-    "u&m/u/Remember.md",
-    "u&m/u/Food&Drink.md",
-    "u&m/u/Cuti thing.md",
+    "fleeting Note.md",
+    "How to use Obsidian/0. Obisidian.md",
+    "Daily Note/2024-08-07.md",
+    "z_Templates/Daily note.md",
+    "z_Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
+    "z_Meta/Attachment/Pasted image 20240804083519.png",
+    "Vitamin/Birthday.md",
     "u&m/u/About her.md",
     "u&m/u/0. Main.md",
     "u&m/Plan/5. Letter.md",
+    "u&m/Plan/0. Planning.md",
+    "How to use Obsidian/Hashtag.md",
+    "How to use Obsidian/Literature note.md",
+    "How to use Obsidian/Faker.md",
+    "Daily Note/2024-08-05.md",
+    "Daily Note/2024-08-04.md",
+    "Daily Note/2024-08-06.md",
+    "To-do list this month/Untitled.md",
+    "Vitamin/Vocabulary.md",
+    "To-do list this month",
+    "z_Templates",
+    "u&m/u/Food&Drink.md",
+    "u&m/u/Remember.md",
+    "u&m/u/Cuti thing.md",
     "u&m/Plan/4. Timeline.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/1. Food.md",
-    "u&m/Plan/0. Planning.md",
-    "Daily Note/2024-08-07.md",
-    "Daily Note/2024-08-06.md",
-    "How to use Obsidian/0. Obisidian.md",
-    "Daily Note/2024-08-05.md",
-    "Daily Note/2024-08-04.md",
     "u&m/Untitled.md",
     "u&m/m",
     "u&m/u",
     "u&m",
     "Java/JVM.md",
-    "How to use Obsidian/PDF and plugins.md",
-    "Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
-    "How to use Obsidian/Annotation.md",
-    "Other/Vocabulary.md",
-    "How to use Obsidian/Templates.md",
-    "README.md",
-    "How to use Obsidian/VersionController.md",
-    "How to use Obsidian/Dataview.md",
-    "How to use Obsidian/Hashtag.md",
-    "Meta/Attachment/Pasted image 20240804083519.png",
     "Meta/Attachment/Pasted image 20240804083410.png",
-    "Meta/Attachment",
-    "Meta",
+    "z_Meta/Attachment",
+    "z_Meta",
     "Attachment",
-    "Meta",
-    "Daily Note",
-    "Other",
+    "z_Meta",
     "Untitled.canvas",
     "Pasted image 20240802152008.png",
     "Hello.png",

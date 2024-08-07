@@ -4,5 +4,6 @@
   "spellcheck": false,
   "livePreview": false,
   "attachmentFolderPath": "Meta/Attachment",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "promptDelete": false
 }

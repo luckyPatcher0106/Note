@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b7dd2cd5b59c3d",
+        "id": "5914204b77e7374c",
         "type": "tabs",
         "children": [
           {
-            "id": "846a55fb49b68602",
+            "id": "ab619c4b9deadc15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
-                "mode": "preview",
+                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "Learning/Leetcode/258 - Add Digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md"
+                "file": "Learning/Leetcode/258 - Add Digits.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "Learning/Leetcode/258 - Add Digits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +151,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "846a55fb49b68602",
+  "active": "ab619c4b9deadc15",
   "lastOpenFiles": [
-    "myFamily/To-do list.md",
+    "Learning/Java/0. Java core.md",
+    "Lab/0. ADS.md",
+    "u&m/Plan/0. Planning.md",
     "u&m/Plan/4. Timeline.md",
+    "myFamily/To-do list.md",
     "z_Templates/Daily note.md",
     "z_Templates/6. Gửi Email.md",
     "z_Templates/Leetcode.md",
@@ -164,11 +167,9 @@
     "u&m/Plan/5. Letter.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/6. Gửi Email.md",
-    "u&m/Plan/0. Planning.md",
     "u&m/Plan/1. Food.md",
     "u&m/u/Food&Drink.md",
     "u&m/u/Remember.md",
-    "Learning/Java/0. Java core.md",
     "Learning/Java",
     "u&m/Plan/Thư 1.md",
     "Learning/Leetcode/258 - Add Digits.md",
@@ -180,7 +181,6 @@
     "Lab/Apollo.md",
     "z_Meta/Vocabulary",
     "z_Meta/Attachment/Pasted image 20240807073324.png",
-    "Lab/0. ADS.md",
     "z_Meta/Attachment/ĐỆ QUY_NoCopy.pdf",
     "z_Meta/Attachment/Pasted image 20240804083519.png",
     "Lab/Phần cứng.md",

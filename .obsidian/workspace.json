@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "file": "u&m/Plan/Thư 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "file": "u&m/Plan/Thư 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md"
+                "file": "u&m/Plan/Thư 1.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Leetcode/258 - Add Digits.md",
+                "file": "u&m/Plan/Thư 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,9 @@
   },
   "active": "ab619c4b9deadc15",
   "lastOpenFiles": [
-    "Learning/Leetcode/Untitled.md",
+    "u&m/Plan/5. Letter.md",
     "Learning/Leetcode/258 - Add Digits.md",
+    "Learning/Leetcode/Untitled.md",
     "Learning/Java/0. Java core.md",
     "Lab/0. ADS.md",
     "u&m/Plan/0. Planning.md",
@@ -167,7 +168,6 @@
     "Daily Note/2024-08-08.md",
     "myFamily/Birthday.md",
     "u&m/Plan/3. PlayGame.md",
-    "u&m/Plan/5. Letter.md",
     "u&m/Plan/2. Market.md",
     "u&m/Plan/6. Gửi Email.md",
     "u&m/Plan/1. Food.md",

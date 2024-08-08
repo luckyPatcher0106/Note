@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "z_Templates/Daily note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "z_Templates/Daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md"
+                "file": "z_Templates/Daily note.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "u&m/Plan/4. Timeline.md",
+                "file": "z_Templates/Daily note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,30 +153,30 @@
   },
   "active": "846a55fb49b68602",
   "lastOpenFiles": [
+    "z_Templates/Leetcode.md",
+    "Daily Note/2024-08-08.md",
+    "myFamily/To-do list.md",
+    "myFamily/Birthday.md",
+    "u&m/Plan/4. Timeline.md",
     "u&m/Plan/3. PlayGame.md",
     "u&m/Plan/5. Letter.md",
     "u&m/Plan/2. Market.md",
-    "u&m/Plan/4. Timeline.md",
     "u&m/Plan/6. Gửi Email.md",
     "u&m/Plan/0. Planning.md",
     "u&m/Plan/1. Food.md",
     "u&m/u/Food&Drink.md",
-    "Daily Note/2024-08-08.md",
     "u&m/u/Remember.md",
     "Learning/Java/0. Java core.md",
     "Learning/Java",
     "u&m/Plan/Thư 1.md",
     "Learning/Leetcode/258 - Add Digits.md",
-    "z_Templates/Leetcode.md",
     "Learning/Leetcode/Daily Practise.md",
     "Daily Note/2024-08-07.md",
     "Learning/Leetcode",
     "Learning",
     "Temp Note.md",
     "Lab/Apollo.md",
-    "myFamily/To-do list.md",
     "z_Meta/Vocabulary",
-    "myFamily/Birthday.md",
     "z_Meta/Attachment/Pasted image 20240807073324.png",
     "Lab/0. ADS.md",
     "z_Meta/Attachment/ĐỆ QUY_NoCopy.pdf",

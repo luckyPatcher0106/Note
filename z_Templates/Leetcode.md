@@ -1,7 +1,0 @@
-- Tag
-- Problem
-- Solution's requirement
-	- Time complexity: $O(n \cdot \log(n))$
-	- Space complexity: $O(n)$
-- Naive approach
-- Optimal approach

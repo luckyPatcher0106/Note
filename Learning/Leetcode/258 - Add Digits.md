@@ -1,7 +1,9 @@
 - Tag #easyLC
 - Problem
+	- Given an integer **num**, repeatedly add all its digits until the result has only one digit, and return it.
 - Solution's requirement
 	- Time complexity: $O(n \cdot \log(n))$
 	- Space complexity: $O(n)$
 - Naive approach
 - Optimal approach
+

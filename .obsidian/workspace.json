@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "f1f4debfd55ec6db",
@@ -153,6 +154,8 @@
   },
   "active": "ab619c4b9deadc15",
   "lastOpenFiles": [
+    "Learning/Leetcode/Untitled.md",
+    "Learning/Leetcode/258 - Add Digits.md",
     "Learning/Java/0. Java core.md",
     "Lab/0. ADS.md",
     "u&m/Plan/0. Planning.md",
@@ -172,7 +175,6 @@
     "u&m/u/Remember.md",
     "Learning/Java",
     "u&m/Plan/Thư 1.md",
-    "Learning/Leetcode/258 - Add Digits.md",
     "Learning/Leetcode/Daily Practise.md",
     "Daily Note/2024-08-07.md",
     "Learning/Leetcode",
@@ -186,7 +188,6 @@
     "Lab/Phần cứng.md",
     "Lab",
     "fleeting Note.md",
-    "How to use Obsidian/0. Obisidian.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",

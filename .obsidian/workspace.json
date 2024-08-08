@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Daily note.md",
+                "file": "u&m/Plan/4. Timeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Daily note.md",
+                "file": "u&m/Plan/4. Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Daily note.md"
+                "file": "u&m/Plan/4. Timeline.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Daily note.md",
+                "file": "u&m/Plan/4. Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +153,8 @@
   },
   "active": "846a55fb49b68602",
   "lastOpenFiles": [
+    "z_Templates/Daily note.md",
+    "z_Templates/6. Gửi Email.md",
     "z_Templates/Leetcode.md",
     "Daily Note/2024-08-08.md",
     "myFamily/To-do list.md",
@@ -185,8 +187,6 @@
     "Lab",
     "fleeting Note.md",
     "How to use Obsidian/0. Obisidian.md",
-    "z_Templates/Daily note.md",
-    "u&m/u/About her.md",
     "To-do list this month",
     "z_Templates",
     "u&m/m",

@@ -2,9 +2,6 @@
 - Problem
 	- Given an integer **num**, repeatedly add all its digits until the result has only one digit, and return it.
 	- THIS IS THE QUOTE
-		```pythoon
-		
-	```
 	- 
 - Solution's requirement
 	- Time complexity: $O(n \cdot \log(n))$
